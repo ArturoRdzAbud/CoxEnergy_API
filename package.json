@@ -1,0 +1,30 @@
+{
+  "name": "alcalde360",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mssql": "^7.3.0",
+    "multer": "^1.4.5-lts.1",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "routes": "^2.1.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturoRdzAbud/Alcalde360_API.git"
+  },
+  "author": "GrupoArtra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturoRdzAbud/Alcalde360_API/issues"
+  },
+  "homepage": "https://github.com/ArturoRdzAbud/Alcalde360_API#readme"
+}
